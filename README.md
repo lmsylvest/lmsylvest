@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am passionate about applying my GIS and data science skills to address real-world challenges and opportunities in various domains and industries. 
 
 <!--
 **lmsylvest/lmsylvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
